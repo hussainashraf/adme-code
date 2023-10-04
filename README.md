@@ -1,7 +1,11 @@
+#Desktop Version
+
 [![Screenshot-2023-10-04-at-7-08-00-PM.png](https://i.postimg.cc/pTQV4T7c/Screenshot-2023-10-04-at-7-08-00-PM.png)](https://postimg.cc/r0mLt8q5)
 
 
+#Mobile Version
 
+[![Screenshot-2023-10-04-at-7-08-22-PM.png](https://i.postimg.cc/VLhw7nvL/Screenshot-2023-10-04-at-7-08-22-PM.png)](https://postimg.cc/ppK3r9Kg)
 
 
 
